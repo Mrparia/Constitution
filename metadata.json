@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Sanvidhan",
+  "description": "An interactive, multilingual application centered on the Indian Constitution. Search articles, review historic amendments, read landmark case studies, and complete civil literacy quizzes in all official languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
